@@ -24,4 +24,3 @@ Multi VLAN network configuration with DHCP and inter-VLAN routing using Cisco Pa
 - Verified VLAN configuration using show vlan brief
 ## Outcome 
 - All departments received automatic IP address and successfully, communicated across VLANS.
-- 
