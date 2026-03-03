@@ -1,0 +1,10 @@
+Steps:
+1. Designed the network topology using one router and one switch.
+2. Crated VLAN for IT, HR, and Sales departments.
+3. Assigned switch ports to the correct VLANs.
+4. Configured trunk link between router and switch.
+5. Configured DHCP pools for automatic IP address assignment.
+6. Verified IP allocation using ipfconfig.
+7. Tested connectivity using ping and tracert
+8. Checked VLAN and routing status using show commends.
+9. Fixed basic connectivity issue during show commands.
